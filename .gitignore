@@ -1,0 +1,4 @@
+VirtualMachine/*.layout
+VirtualMachine/*.depend
+VirtualMachine/bin/
+VirtualMachine/obj/
